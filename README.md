@@ -1,10 +1,14 @@
 Konferenční webová aplikace HERNÍWEB
+
 Vytvořil: Viktor Kotlan
 
 Obsah archivu:
+
 	- Složka Sources: 		Obsahuje zdrojové soubory webové aplikace včetně potřebných knihoven
+	
 	- sql_db.sql:			SQL skript pro vytvoření databáze včetně tabulek a testovacích dat, 
 					přihlašovací údaje jsou v tabulce zašifrovány, proto jsou přiložené níže
+					
 	- WEB_Kotlan_2020_21.pdf	Dokumentace k webové aplikaci ve formátu PDF
 
 Přihlašovací údaje k testovacím datům:
